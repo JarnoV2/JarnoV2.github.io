@@ -15,4 +15,4 @@ permalink: /publications/
 </section><!-- /#table-of-contents -->
 
 
-For an overview of citations of my papers, please view my [Google Scholar profile](#GoogleScholar URL).
+For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.com/citations?user=JVZIL5wAAAAJ&hl=nl&oi=ao).
