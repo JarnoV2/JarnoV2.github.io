@@ -4,6 +4,11 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
+Insert Text
+
+---
+## Research
+
 
 ## Full Resume
 
