@@ -19,7 +19,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 ## Selected Publications
 ## 2022
-* Vrolijk, J., Mol, S. T., Weber, C., Tavakoli, M., Kismihók, G., & Pelucchi, M. (2022, January). OntoJob: Automated Ontology Learning from Labor Market Data. In 2022 IEEE 16th International Conference on Semantic Computing (ICSC) (pp. 195-200). IEEE.
+* Vrolijk, J., Mol, S. T., Weber, C., Tavakoli, M., Kismihók, G., & Pelucchi, M. (2022, January). OntoJob: Automated Ontology Learning from Labor Market Data. In 2022 IEEE 16th International Conference on Semantic Computing (ICSC) (pp. 195-200).
 * Tavakoli, M., Faraji, A., Vrolijk, J., Molavi, M., Mol, S. T., & Kismihók, G. (2022). An AI-based open recommender system for personalized labor market driven education. Advanced Engineering Informatics, 52, 101508.
 
 ## 2021
